@@ -11,7 +11,7 @@ I'm Lex, a graduate student majoring in Software Engineering at Northeastern Uni
 - Languages: JavaScript, HTML/CSS, Java, Python, SQL
 - Frontend: React, Next.js, TypeScript, Tailwind CSS, Bootstrap
 - Backend: Node.js, Express, Java Spring Boot, Flask
-- Tools & DevOps: Git, Docker, AWS, Firebase, Jenkins, Postman
+- Tools & DevOps: Git, Docker, AWS, Firebase, Jenkins, Postman, Figma, Adobe XD
 - Databases: MySQL, PostgreSQL, MongoDB, SQLite
 - Other: RESTful APIs, GraphQL, Agile/Scrum, Test-Driven Development (TDD)
 
