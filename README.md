@@ -17,6 +17,6 @@ I'm Lex, a graduate student majoring in Software Engineering at Northeastern Uni
 
 🧗 When I'm not coding, you’ll find me bouldering! Started from July 2024. Currently tackling V2/V3 routes and always excited for new challenges!
 
-📫 You can reach me at: liu.xu1@northeastern.edu
+📫 You can reach me at: xuliu0925@gmail.com
 
 🔭 I’m actively seeking full-time opportunities as a Software Engineer or Full-Stack Developer!
