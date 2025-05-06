@@ -15,7 +15,7 @@ I'm Lex, a graduate student majoring in Software Engineering at Northeastern Uni
 - 🪣 Databases: MySQL, PostgreSQL, MongoDB, SQLite
 - 📓 Other: RESTful APIs, GraphQL, Agile/Scrum, Test-Driven Development (TDD)
 
-🧗 When I'm not coding, you’ll find me bouldering! Started from July 2024. Currently tackling V2/V3 routes and always excited for new challenges!
+🧗 When I'm not coding, you’ll find me bouldering! Started from July 2024. Currently tackling V3/V4 routes and always excited for new challenges!
 
 📫 You can reach me at: xuliu0925@gmail.com
 
